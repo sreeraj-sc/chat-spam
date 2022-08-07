@@ -1,6 +1,74 @@
-from win10toast import ToastNotifier
-toaster = ToastNotifier()
-toaster.show_toast("Hello World!!!",
-"Python is 10 seconds awsm!",
-icon_path="custom.ico",
-duration=10)
+( Love Will Find A Way..)
+Jaaniye.. Heeriye..
+( Love Will Find A Way..)
+Jaaniye Heeriye
+Mere Mann Yeh Baata De Tu
+Kis Aur Chala Hai Tu
+Kya Paaya Nahin Tune
+Kya Dhoond Raha Hai Tu
+Jo Hai Ankahi
+Jo Hai Ansuni
+Woh Baat Kya Hai Baata
+Mitwa...
+Kahe Dhadkane Tujhse Kya
+Mitwa...
+Yeh Khudse Toh Na Tu Chhupa
+(Love Will.. Find A Way..)
+(Jaaniye.. Heeriye..)
+O.. Mere Mann Yeh Bata De Tu
+Kis Or Chala Hai Tu
+Kya Paaya Nahin Tune
+Kya Dhoond Raha Hai Tu
+Jo Hai Ankahi, Jo Hai Ansuni
+Woh Baat Kya Hai Bata
+Mitwa...
+Kahe Dhadkane Tujhse Kya
+Mitwa...
+Yeh Khudse Toh Na Tu Chhupa
+Ga Ma Pa Ni Ri Ni Sa..
+Ga Ma Pa Da Sa Da Ni..
+Ni Da.. Ga Ma.. Pa Da Pa..
+Ga Ma Pa Ri Ni Nisa Nisa Nisa Nisa
+Ga Ma Pa Da Sa Da Ni..
+Ni Da.. Ni Da Ni Da Ni Da Ma Pa Da Pa Da
+Pa Da Sa Ri Ni Sa Ni Da Pa..
+Mitwa..
+Jeevan Dagar Mein..
+(Dagar Mein.. Dagar Mein)
+Prem Nagar Mein..
+(Nagar Mein.. Nagar Mein)
+Jeevan Dagar Mein
+Prem Nagar Mein
+Aaya Nazar Mein Jab Se Koi Hai
+Tu Sochta Hai, Tu Puchata.. Hai
+Jiski Kami Thi Kya Yeh Wohi Hai
+Haan Yeh Wohi Hai..Haan Yeh Wohi Hai
+Tu Ek Pyasa Aur Yeh Nadi Hai
+Kaahe Nahin, Is Ko Tu, Khulke Bataye
+Jo Hai Ankahi, Jo Hai Ansuni
+Woh Baat Kya Hai Baata
+Mitwa...
+Kahe Dhadkane Tujhse Kya
+Mitwa..
+Yeh Khudse Toh Na Tu Chhupa
+O.. Teri Nigaahen, Pa Gayi Rahe
+Par Tu Yeh Soche Jaaun Na Jaaun
+Yeh Zindagi Jo, Hai Naachti Toh
+Kyon Bediyon Mein Hai Tere Paanv
+Preet Ki Dhun Par Naach Le Paagal
+Udta Agar Hai Udne De Aanchal
+Kaahe Koi Apne Ko Aise Tarsaaye
+Jo Hai Ankahi, Jo Hai Ansuni
+Woh Baat Kya Hai Baata
+Mitwa...
+Kahe Dhadkane Tujhse Kya
+Mitwa...
+Yeh Khudse Toh Na Tu Chhupa
+Mere Mann Yeh Baata De Tu
+Kis Or Chala Hai Tu
+Kya Paaya Nahin Tune
+Kya Dhoond Raha Hai Tu
+( Love Will.. Find Away.. )
+( Jaaniye.. Heeriye.. )
+Mitwa......
+Love Will Find A Way...
